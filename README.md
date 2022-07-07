@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <img src="https://github.com/the1artist/gjewell/blob/main/assets/Copy%20of%20Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.jpg"/>
 </div>
 <h1 align="center">Hi 👋, I'm Gregory Jewell</h1>
 <h3 align="center">HTML Developer in Phoenix, Arizona</h3>
